@@ -24,7 +24,7 @@
 ## Installation
 1. Clone this repository to your local machine:
 ```
-git clone https://github.com/sidhuad/CICDProject.git
+git@github.com:HMasese/CI-CD-challenge.git
 ```
 
 2. Install the necessary dependencies:
